@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/natalielim/Documents/Unreal Projects/HW4/Source/HW4/HW4.Build.cs",
+		"/Users/natalielim/Documents/Unreal Projects/HW4/Source/HW4.Target.cs",
+		"/Users/natalielim/Documents/Unreal Projects/HW4/Source/HW4Editor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
